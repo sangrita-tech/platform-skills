@@ -1,0 +1,4 @@
+interface:
+  display_name: "Обновление changelog"
+  short_description: "Короткий список сделанного с датой и версией"
+  default_prompt: "Используй $update-changelog, чтобы обновить историю изменений проекта по последним завершённым изменениям."
